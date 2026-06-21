@@ -1,14 +1,14 @@
-## Queue Simulation and Workforce Scheduling Optimization
+# Queue Simulation and Workforce Scheduling Optimization
 
-# Overview
+## Overview
 
 This project develops a discrete-event simulation and optimization framework to improve supermarket checkout operations. Using historical customer data, different workforce scheduling strategies were evaluated to identify staffing configurations that minimize labor costs while maintaining high service quality.
 
-# Business Problem
+## Business Problem
 
 A supermarket manager aims to reduce staffing costs while ensuring an efficient checkout experience for customers. The challenge is to determine the optimal number of employees and shift schedules throughout the day while meeting predefined service-level requirements.
 
-# Methodology
+## Methodology
 
 The project was developed in three phases:
 
@@ -24,7 +24,7 @@ Alternative workforce schedules were implemented and compared against the curren
 
 An optimization model was integrated with the simulation framework to identify the staffing configuration that minimizes labor costs while satisfying service-level constraints.
 
-# Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -33,7 +33,7 @@ An optimization model was integrated with the simulation framework to identify t
 - AnyLogic
 - Operations Research & Optimization
 
-# Key Skills Demonstrated
+## Key Skills Demonstrated
 - Discrete-Event Simulation
 - Workforce Planning
 - Queueing Systems Analysis
@@ -42,10 +42,10 @@ An optimization model was integrated with the simulation framework to identify t
 - Data Analysis
 - Business Decision Support
 
-# Results
+## Results
 
 The simulation framework enabled the evaluation of multiple workforce strategies and identified staffing configurations capable of reducing operational costs while maintaining customer service quality targets.
 
-# Conclusion
+## Conclusion
 
 This project demonstrates how simulation and optimization techniques can support data-driven workforce planning decisions by balancing operational efficiency, labor costs and customer satisfacti
