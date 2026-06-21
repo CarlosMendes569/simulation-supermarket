@@ -1,14 +1,14 @@
 ## Queue Simulation and Workforce Scheduling Optimization
 
-#Overview
+# Overview
 
 This project develops a discrete-event simulation and optimization framework to improve supermarket checkout operations. Using historical customer data, different workforce scheduling strategies were evaluated to identify staffing configurations that minimize labor costs while maintaining high service quality.
 
-#Business Problem
+# Business Problem
 
 A supermarket manager aims to reduce staffing costs while ensuring an efficient checkout experience for customers. The challenge is to determine the optimal number of employees and shift schedules throughout the day while meeting predefined service-level requirements.
 
-#Methodology
+# Methodology
 
 The project was developed in three phases:
 
